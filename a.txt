@@ -1,1 +1,2 @@
 This is GIT learning
+Appending text to a.txt
